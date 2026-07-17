@@ -1,0 +1,11 @@
+{
+  "name": "finalprojtest",
+  "version": "1.0.0",
+  "main": "LoginPage.jsx",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
